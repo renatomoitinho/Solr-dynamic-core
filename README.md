@@ -1,0 +1,1 @@
+# Solr-dynamic-core
